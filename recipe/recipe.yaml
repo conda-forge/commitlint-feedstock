@@ -1,5 +1,5 @@
 context:
-  version: "20.1.0"
+  version: "20.2.0"
 
 package:
   name: commitlint
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@commitlint/cli/-/cli-${{ version }}.tgz
-  sha256: 1ebe37309f7044f551813f081c7fb2a7ff72d10b93d955ad616d421ed7afa410
+  sha256: 073b00baeb3053b604ee3b106f39ebb02f7fbbc5363a7c12fcf0ba91817cda43
 
 build:
   number: 0
